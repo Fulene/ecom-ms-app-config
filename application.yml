@@ -1,8 +1,8 @@
 global:
   params:
-    x: 987
-    y: 66
-    z: toto
+    x: 873
+    y: 661
+    z: tata
 
 # For Actuator
 management:
