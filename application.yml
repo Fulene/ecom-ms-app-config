@@ -1,4 +1,4 @@
 global:
   params:
-    p1: 345
-    p2: 3
+    x: 345
+    y: 3
