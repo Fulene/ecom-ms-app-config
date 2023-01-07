@@ -2,3 +2,7 @@ inventory:
   params:
     p1: "inv-base"
     p2: 20
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:inventory-db

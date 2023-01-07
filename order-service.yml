@@ -2,3 +2,7 @@ order:
   params:
     p1: "order-base"
     p2: 30
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:order-db
