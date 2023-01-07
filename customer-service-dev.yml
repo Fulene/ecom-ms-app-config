@@ -2,3 +2,14 @@ customer:
   params:
     p1: "cust-dev"
     p2: 11
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:customer-db
+
+# For Actuator
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
