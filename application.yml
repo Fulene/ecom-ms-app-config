@@ -2,3 +2,4 @@ global:
   params:
     x: 987
     y: 6
+    z: toto
