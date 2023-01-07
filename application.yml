@@ -3,3 +3,10 @@ global:
     x: 987
     y: 66
     z: toto
+
+# For Actuator
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
