@@ -3,7 +3,3 @@ customer:
     p1: "cust-base"
     p2: 555555
     p3: java
-
-spring:
-  datasource:
-    url: jdbc:h2:mem:customer-db

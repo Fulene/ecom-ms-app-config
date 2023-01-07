@@ -1,0 +1,12 @@
+global:
+  params:
+    x: 111
+    y: 222
+    z: app-dev
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:customer-db
+  h2:
+    console:
+      enabled: true
