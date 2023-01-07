@@ -1,0 +1,4 @@
+customer:
+  params:
+    p1: "cust-base"
+    p2: 10

@@ -1,0 +1,4 @@
+inventory:
+  params:
+    p1: "inv-dev"
+    p2: 21

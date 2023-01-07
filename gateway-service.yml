@@ -1,0 +1,4 @@
+gateway:
+  params:
+    p1: "gw-base"
+    p2: 40

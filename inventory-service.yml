@@ -1,0 +1,4 @@
+inventory:
+  params:
+    p1: "inv-base"
+    p2: 20

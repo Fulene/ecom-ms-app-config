@@ -1,0 +1,4 @@
+customer:
+  params:
+    p1: "cust-prod"
+    p2: 12

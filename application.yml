@@ -1,0 +1,4 @@
+global:
+  params:
+    p1: 345
+    p2: 3

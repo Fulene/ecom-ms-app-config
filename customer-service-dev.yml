@@ -1,0 +1,4 @@
+customer:
+  params:
+    p1: "cust-dev"
+    p2: 11

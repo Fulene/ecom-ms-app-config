@@ -1,0 +1,4 @@
+inventory:
+  params:
+    p1: "inv-prod"
+    p2: 22
