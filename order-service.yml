@@ -7,20 +7,3 @@ spring:
   datasource:
     url: jdbc:h2:mem:order-db
 
-# OpenFeign logs
-feign:
-  client:
-    config:
-      default:
-        loggerLevel: full
-
-logging:
-  level:
-    com:
-      practice:
-        orderservice:
-          services:
-            rest:
-              CustomerRestClientService: debug
-              InventoryRestClientService: debug
-
