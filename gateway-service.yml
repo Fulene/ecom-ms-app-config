@@ -2,8 +2,3 @@ gateway:
   params:
     p1: "gw-base"
     p2: 40
-
-eureka:
-  client:
-    registerWithEureka: false
-    fetchRegistry: false
